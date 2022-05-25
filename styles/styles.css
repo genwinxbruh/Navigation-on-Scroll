@@ -308,11 +308,10 @@ header {
   background: var(--clr-white);
 }
 footer {
-  background: var(--clr-grey-1);
+  background: var(--clr-blue);
   padding: 5rem 1rem;
 }
 footer p {
-  color: var(--clr-white);
   text-align: center;
   text-transform: capitalize;
   letter-spacing: var(--spacing);
