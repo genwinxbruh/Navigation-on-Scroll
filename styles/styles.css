@@ -264,7 +264,7 @@ nav {
     padding: 0;
   }
   .links a:hover {
-    /* color: var(--clr-white); */
+    color: var(--clr-blue);
   }
 }
 /* hero */
