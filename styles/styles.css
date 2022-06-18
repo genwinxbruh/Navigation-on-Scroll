@@ -178,7 +178,7 @@ nav {
   color: var(--clr-secondary);
 }
 .logo {
-  height: 50px;
+  height: 58px;
 }
 .links-container {
   height: 0;
@@ -205,6 +205,9 @@ nav {
   max-width: 100%;
 }
 @media screen and (min-width: 800px) {
+  .logo {
+    height: 68px;
+  }
   nav {
     background: transparent;
   }
